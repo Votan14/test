@@ -27,7 +27,7 @@ html, body {
     display: inline-block; 
     width: 505px;
     height: 500px;
-    max-width: 90%;
+    max-width: 50%;
     border: 1px solid red;
     background-color: greenyellow;
     position: absolute;
