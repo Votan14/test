@@ -35,8 +35,7 @@ html, body {
 
 .block-2 {
     display: inline-block;    
-    left: 50%;
-    right: 50%;
+    left: 50%;    
     width: 505px;
     height: 500px;
     max-width: 50%;
